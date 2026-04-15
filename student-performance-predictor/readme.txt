@@ -128,5 +128,5 @@ Inspired by real-world educational challenges and the need for data-driven stude
 
 ## 👨‍💻 Author
 
-Your Name
-GitHub: https://github.com/your-Hariharan I
+Hariharan I
+GitHub: https://github.com/your-Hariharan12315
